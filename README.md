@@ -5,7 +5,7 @@
 - 💬 Ask me about anything you want
 - 📫 How to reach me: github
 - ⚡ Fun fact: Pandas can't be racist
--->
+- 🏠 My Website: https://lukaszfojt.com
 
 ## TechStack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,4 +23,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## GithubStats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukaszFojt&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukaszFojt&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D&background=45%2CEB5454%2C21552A&border=172C30&fire=89BAEB)](https://git.io/streak-stats)
