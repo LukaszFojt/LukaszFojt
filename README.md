@@ -5,7 +5,7 @@
 - 💬 Ask me about anything you want
 - 📫 How to reach me: github
 - ⚡ Fun fact: Pandas can't be racist
-- 🏠 My Website: https://lukaszfojt.com
+- 🏠 My Website: https://lukaszfojt.com , https://lukasz-fojt.vercel.app
 
 ## TechStack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
